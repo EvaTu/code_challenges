@@ -3,12 +3,20 @@ Code Challenge Self Practice
 Code Challenge Questions Are From CoderByte, HackerRank and AlgoExpert: 
 Language: JavaScript
 
-CoderByte Questions:
+**CoderByte Questions:
 1. Find Intersection
 2. Codeland Username Validation
 
-HackerRank Questions:
+**HackerRank Questions:
 
 
-AlgoExpert:
+**AlgoExpert:
 1. Validate Sequence
+
+
+**Udemy - Algo & Data Structure:
+1. String Reverse
+2. Sum Numbers
+
+**Udemy - Code Interview Bootcamp:
+
