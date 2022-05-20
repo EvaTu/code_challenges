@@ -23,6 +23,8 @@ Language: JavaScript
 6. Print At Most 5
 7. Array Numbers Sum Up 
 8. Array Numbers Double
+9. String Characters Count
+10. Same Arrays
 
 **Udemy - Code Interview Bootcamp:
 
