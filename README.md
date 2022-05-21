@@ -25,6 +25,8 @@ Language: JavaScript
 8. Array Numbers Double
 9. String Characters Count
 10. Same Arrays
+11. Anagram
+12. Sorted Array Sum Zero
 
 **Udemy - Code Interview Bootcamp:
 
