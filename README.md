@@ -26,7 +26,10 @@ Language: JavaScript
 9. String Characters Count
 10. Same Arrays
 11. Anagram
-12. Sorted Array Sum Zero
+12. Multiple Pointers - Sum Zero (sorted array)
+13. Multiple Pointers - Count Unique Values
+14. Sliding Window
+15. Divide and Conquer - Search (sorted array)
 
 **Udemy - Code Interview Bootcamp:
 
