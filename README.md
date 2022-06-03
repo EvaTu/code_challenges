@@ -33,3 +33,14 @@ Language: JavaScript
 
 **Udemy - Code Interview Bootcamp:
 
+
+
+**Udemy - Algo & Data Structure(Code_Exercise):
+1. Frequency Counter - sameFrequency
+2. Frequency Counter/ Multiple Pointers -areThereDuplicates
+3. Multiple-Pointer - averagePair
+4. Multiple Pointer - isSubsequence
+5. Sliding Window - maxSubarraySum
+6. Sliding Window - minSubArrayLen
+7. Sliding Window - findLongestSubString
+
