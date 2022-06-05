@@ -44,3 +44,11 @@ Language: JavaScript
 6. Sliding Window - minSubArrayLen
 7. Sliding Window - findLongestSubString
 
+
+**Udemy - Coding Interview Bootcamp
+s3. String Reverse
+s4. Palindromes
+s5. Integer reverse
+s6. Max Chars
+s7. Fizz Buzz
+s8. Array Chunk
