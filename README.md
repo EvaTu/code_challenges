@@ -31,9 +31,6 @@ Language: JavaScript
 14. Sliding Window
 15. Divide and Conquer - Search (sorted array)
 
-**Udemy - Code Interview Bootcamp:
-
-
 
 **Udemy - Algo & Data Structure(Code_Exercise):
 1. Frequency Counter - sameFrequency
@@ -46,9 +43,9 @@ Language: JavaScript
 
 
 **Udemy - Coding Interview Bootcamp
-s3. String Reverse
-s4. Palindromes
-s5. Integer reverse
-s6. Max Chars
-s7. Fizz Buzz
-s8. Array Chunk
+1. s3. String Reverse
+2. s4. Palindromes
+3. s5. Integer reverse
+4. s6. Max Chars
+5. s7. Fizz Buzz
+6. s8. Array Chunk
