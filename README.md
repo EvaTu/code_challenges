@@ -49,3 +49,6 @@ Language: JavaScript
 4. s6. Max Chars
 5. s7. Fizz Buzz
 6. s8. Array Chunk
+7. s9. Anagrams
+8. s10. Sentence Capitalization
+9. s11. Printing Steps
