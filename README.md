@@ -31,6 +31,13 @@ Language: JavaScript
 14. Sliding Window
 15. Divide and Conquer - Search (sorted array)
 
+//recursion section:
+1. power
+2. factorial
+3. productOfArray
+4. recursiveRange
+5. fib
+
 
 **Udemy - Algo & Data Structure(Code_Exercise):
 1. Frequency Counter - sameFrequency
