@@ -38,6 +38,12 @@ Language: JavaScript
 4. recursiveRange
 5. fib
 
+//recursion plus section:
+1. reverse
+2. isPalindrome
+3. someRecursive
+4. flatten
+
 
 **Udemy - Algo & Data Structure(Code_Exercise):
 1. Frequency Counter - sameFrequency
