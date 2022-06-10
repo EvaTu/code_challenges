@@ -43,6 +43,11 @@ Language: JavaScript
 2. isPalindrome
 3. someRecursive
 4. flatten
+5. capitalizeFirst
+6. nestedEvenSum
+7. capitalizeWords
+8. stringifyNumbers
+9. collectedStrings
 
 
 **Udemy - Algo & Data Structure(Code_Exercise):
